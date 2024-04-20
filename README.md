@@ -35,7 +35,7 @@ The website will feature a design known for its vibrant and playful aesthetics.
 
 ## Contributors
 - [Mukul Singh](https://twitter.com/mukulownsyou)
-- [Any other contributors, if applicable]
+
 
 ## License
 This project is licensed under the [License Name, e.g., MIT License]. See the `LICENSE` file for details.
